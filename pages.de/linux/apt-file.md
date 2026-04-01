@@ -1,7 +1,7 @@
 # apt-file
 
 > Suche nach Dateien in apt-Paketen, auch in den nicht-installierten.
-> Weitere Informationen: <https://manned.org/apt-file.1>.
+> Weitere Informationen: <https://manned.org/apt-file>.
 
 - Aktualisiere die Metadatenbank:
 

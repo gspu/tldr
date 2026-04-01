@@ -1,7 +1,7 @@
 # apt-file
 
 > Wyszukaj pliki w pakietach APT, w tym jeszcze nie zainstalowanych.
-> Więcej informacji: <https://manned.org/apt-file.1>.
+> Więcej informacji: <https://manned.org/apt-file>.
 
 - Zaktualizuj bazę metadanych:
 

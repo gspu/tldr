@@ -1,7 +1,7 @@
 # apt-file
 
 > Busca arquivos nos pacotes APT, incluindo os não instalados.
-> Mais informações: <https://manned.org/apt-file.1>.
+> Mais informações: <https://manned.org/apt-file>.
 
 - Atualiza as informações dos pacotes:
 

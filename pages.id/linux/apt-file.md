@@ -1,7 +1,7 @@
 # apt-file
 
 > Cari kumpulan berkas di dalam paket `apt`, termasuk yang belum dipasang.
-> Informasi lebih lanjut: <https://manned.org/apt-file.1>.
+> Informasi lebih lanjut: <https://manned.org/apt-file>.
 
 - Perbarui basis data metadata:
 
