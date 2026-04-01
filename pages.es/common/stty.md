@@ -1,6 +1,7 @@
 # stty
 
 > Establece opciones para una interfaz del dispositivo terminal.
+> Vea también: `tput`.
 > Más información: <https://www.gnu.org/software/coreutils/manual/html_node/stty-invocation.html>.
 
 - Muestra todas las opciones de la terminal actual:

@@ -1,7 +1,7 @@
 # apt-file
 
 > Busca arxius en paquets APT, incloent els que encara no s'han instal·lat.
-> Més informació: <https://manned.org/apt-file.1>.
+> Més informació: <https://manned.org/apt-file>.
 
 - Actualita les metadades de la base de dades:
 
